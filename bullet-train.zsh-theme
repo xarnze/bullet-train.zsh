@@ -293,7 +293,7 @@ fi
 # ------------------------------------------------------------------------------
 
 CURRENT_BG='NONE'
-SEGMENT_SEPARATOR='\uE0C8'
+SEGMENT_SEPARATOR='\uE0C6'
 
 # Begin a segment
 # Takes three arguments, background, foreground and text. All of them can be omitted,
